@@ -1,0 +1,5 @@
+values=raw_input("Enter the number saperated by comma")
+list=values.split(",")
+t=tuple(list)
+print(list)
+print(t)
